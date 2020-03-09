@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884745036865",
+    "firebase_url": "https://taxiassist-8fd65.firebaseio.com",
+    "project_id": "taxiassist-8fd65",
+    "storage_bucket": "taxiassist-8fd65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884745036865:android:561199ae8e35d0cc10d2c0",
+        "android_client_info": {
+          "package_name": "com.skratchkrafts.taxi_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884745036865-9epkqnrc5onhub48geeuec4p8g0fhjgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skratchkrafts.taxi_assist",
+            "certificate_hash": "f0c9c5a2c8e59bb2e11200e5fdb8727429de284b"
+          }
+        },
+        {
+          "client_id": "884745036865-g7r0u1of9trbk4a6ia882k2psbg7bpbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLwPXm3ev4gp6f4j-3KvjapSuqC0-dJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884745036865-g7r0u1of9trbk4a6ia882k2psbg7bpbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
